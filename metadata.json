@@ -1,0 +1,6 @@
+{
+  "name": "EcoSort",
+  "description": "AI-powered municipal waste segregation and disposal advisor aligning with SDG 11 and SDG 12.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

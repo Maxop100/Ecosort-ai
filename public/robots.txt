@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /scan
+Allow: /history
+Allow: /impact
+Allow: /deliverable
+Allow: /terms
+Allow: /privacy
+Disallow: /api/
+Disallow: /admin
+Disallow: /404
+
+Sitemap: https://ecosort.local/sitemap.xml

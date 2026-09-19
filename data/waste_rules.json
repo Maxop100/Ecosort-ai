@@ -1,0 +1,312 @@
+[
+  {
+    "id": "rule-1",
+    "itemKeyword": "plastic bottle",
+    "category": "recyclable",
+    "disposalInstruction": "Rinse and remove the cap. Place in the dry/recyclable waste bin. Do not crush if your municipality sorts by shape.",
+    "municipality": "general",
+    "binColor": "blue",
+    "specialNotes": "PET #1 plastic. Rinsing prevents liquid contamination of paper bales.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-2",
+    "itemKeyword": "glass bottle",
+    "category": "recyclable",
+    "disposalInstruction": "Rinse thoroughly and place in the dry waste bin. Do not mix with ceramics or broken glass, as they are processed differently.",
+    "municipality": "general",
+    "binColor": "blue",
+    "specialNotes": "Infinitely recyclable container glass.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-3",
+    "itemKeyword": "aluminum can",
+    "category": "recyclable",
+    "disposalInstruction": "Rinse out any residue and place in the dry/recyclable bin. Cans do not need to be crushed unless your local rules ask for it.",
+    "municipality": "general",
+    "binColor": "blue",
+    "specialNotes": "Infinitely recyclable aluminum alloy.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-4",
+    "itemKeyword": "tin can",
+    "category": "recyclable",
+    "disposalInstruction": "Rinse and place in the dry waste bin. Sharp edges should be folded inward if possible.",
+    "municipality": "general",
+    "binColor": "blue",
+    "specialNotes": "Steel food cans separated easily by magnetic reclamation sorting.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-5",
+    "itemKeyword": "cardboard box",
+    "category": "recyclable",
+    "disposalInstruction": "Flatten the box and remove any tape or labels if possible. Place in the dry/paper recyclable bin.",
+    "municipality": "general",
+    "binColor": "blue",
+    "specialNotes": "Keep dry. Wet cardboard degrades pulp quality.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-6",
+    "itemKeyword": "newspaper",
+    "category": "recyclable",
+    "disposalInstruction": "Keep dry and place in the paper recycling bin. Bundle with string if your collection point requires it.",
+    "municipality": "general",
+    "binColor": "blue",
+    "specialNotes": "Recyclable newsprint pulp.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-7",
+    "itemKeyword": "glass jar",
+    "category": "recyclable",
+    "disposalInstruction": "Rinse and remove the lid (lids often need separate disposal). Place the jar in the dry waste bin.",
+    "municipality": "general",
+    "binColor": "blue",
+    "specialNotes": "Remove metal lids to allow separate magnetic and optical separation.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-8",
+    "itemKeyword": "plastic container",
+    "category": "recyclable",
+    "disposalInstruction": "Rinse off food residue and check for a recycling symbol. Place in the dry/recyclable bin.",
+    "municipality": "general",
+    "binColor": "blue",
+    "specialNotes": "Rigid plastics #1, #2, #5 are commonly accepted curbside.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-9",
+    "itemKeyword": "paper cup",
+    "category": "general-waste",
+    "disposalInstruction": "Most paper cups have a plastic lining and are not accepted by standard recycling. Dispose of in general waste unless your facility explicitly accepts them.",
+    "municipality": "general",
+    "binColor": "gray",
+    "specialNotes": "Polyethylene lining prevents standard paper repulping.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-10",
+    "itemKeyword": "plastic bag",
+    "category": "general-waste",
+    "disposalInstruction": "Thin plastic bags jam recycling machinery. Reuse if possible, otherwise dispose of in general waste or a designated soft-plastics drop-off point.",
+    "municipality": "general",
+    "binColor": "gray",
+    "specialNotes": "Soft film plastics tangle automated sorting spinning axles.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-11",
+    "itemKeyword": "fruit peel",
+    "category": "organic",
+    "disposalInstruction": "Place in the wet/organic waste bin or a home compost pile.",
+    "municipality": "general",
+    "binColor": "green",
+    "specialNotes": "Nutrient-rich biodegradable biomass.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-12",
+    "itemKeyword": "vegetable scraps",
+    "category": "organic",
+    "disposalInstruction": "Place in the wet/organic waste bin or compost. Avoid mixing with plastic packaging.",
+    "municipality": "general",
+    "binColor": "green",
+    "specialNotes": "Ideal for vermiculture, aerobic compost, or municipal digesters.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-13",
+    "itemKeyword": "food leftovers",
+    "category": "organic",
+    "disposalInstruction": "Scrape into the wet/organic waste bin. Avoid disposing of large quantities of liquid food waste down drains.",
+    "municipality": "general",
+    "binColor": "green",
+    "specialNotes": "Drain excess gravy/liquid before dumping.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-14",
+    "itemKeyword": "tea bag",
+    "category": "organic",
+    "disposalInstruction": "Most tea bags can go in organic waste, but check for plastic mesh in premium bags first — if plastic is present, remove it and discard separately.",
+    "municipality": "general",
+    "binColor": "green",
+    "specialNotes": "Remove staple wire if present.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-15",
+    "itemKeyword": "coffee grounds",
+    "category": "organic",
+    "disposalInstruction": "Place in the wet/organic waste bin or use directly as garden compost.",
+    "municipality": "general",
+    "binColor": "green",
+    "specialNotes": "High nitrogen soil amendment and odor neutralizer.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-16",
+    "itemKeyword": "eggshells",
+    "category": "organic",
+    "disposalInstruction": "Place in the wet/organic waste bin or crush and add to compost/soil.",
+    "municipality": "general",
+    "binColor": "green",
+    "specialNotes": "Rich in calcium carbonate.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-17",
+    "itemKeyword": "garden waste",
+    "category": "organic",
+    "disposalInstruction": "Place leaves, grass clippings, and small branches in the organic/green waste bin or compost pile.",
+    "municipality": "general",
+    "binColor": "green",
+    "specialNotes": "Yard trimmings generate high-quality leaf mulch.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-18",
+    "itemKeyword": "mobile phone",
+    "category": "e-waste",
+    "disposalInstruction": "Do not place in regular bins. Drop off at a designated e-waste collection center or authorized electronics retailer.",
+    "municipality": "general",
+    "binColor": "yellow",
+    "specialNotes": "Contains recoverable gold, silver, copper, and critical minerals.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-19",
+    "itemKeyword": "laptop",
+    "category": "e-waste",
+    "disposalInstruction": "Take to a certified e-waste recycler. Many manufacturers also offer take-back programs.",
+    "municipality": "general",
+    "binColor": "yellow",
+    "specialNotes": "Wipe personal hard drive before drop-off.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-20",
+    "itemKeyword": "battery",
+    "category": "e-waste",
+    "disposalInstruction": "Never dispose of batteries in general waste. Drop off at a battery collection point or e-waste facility.",
+    "municipality": "general",
+    "binColor": "yellow",
+    "specialNotes": "Tape terminals with clear adhesive tape to prevent short circuits.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-21",
+    "itemKeyword": "charger cable",
+    "category": "e-waste",
+    "disposalInstruction": "Take to an e-waste collection point; cables contain recoverable metals and should not go in general waste.",
+    "municipality": "general",
+    "binColor": "yellow",
+    "specialNotes": "Copper wiring can be stripped and melted down for re-manufacture.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-22",
+    "itemKeyword": "cfl bulb",
+    "category": "hazardous",
+    "disposalInstruction": "CFL bulbs contain trace mercury. Do not break or bin normally — take to an e-waste or hazardous waste collection point.",
+    "municipality": "general",
+    "binColor": "red",
+    "specialNotes": "If broken, ventilate room immediately and avoid vacuuming powder.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-23",
+    "itemKeyword": "led bulb",
+    "category": "e-waste",
+    "disposalInstruction": "Take to an e-waste collection point rather than the general bin, as they contain recoverable electronic components.",
+    "municipality": "general",
+    "binColor": "yellow",
+    "specialNotes": "Contains microchip drivers and diodes.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-24",
+    "itemKeyword": "remote control",
+    "category": "e-waste",
+    "disposalInstruction": "Remove batteries first (dispose separately), then take the remote to an e-waste collection point.",
+    "municipality": "general",
+    "binColor": "yellow",
+    "specialNotes": "Separate alkaline/lithium batteries before drop-off.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-25",
+    "itemKeyword": "paint can",
+    "category": "hazardous",
+    "disposalInstruction": "Do not pour leftover paint down drains or into general waste. Let it dry fully if water-based, then check local hazardous waste drop-off guidelines.",
+    "municipality": "general",
+    "binColor": "red",
+    "specialNotes": "Volatile organic compounds (VOCs) contaminate municipal water runoff.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-26",
+    "itemKeyword": "pesticide container",
+    "category": "hazardous",
+    "disposalInstruction": "Never reuse or rinse into open drains. Take to a hazardous waste collection facility.",
+    "municipality": "general",
+    "binColor": "red",
+    "specialNotes": "Toxic to aquatic life and groundwater aquifers.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-27",
+    "itemKeyword": "expired medicine",
+    "category": "hazardous",
+    "disposalInstruction": "Do not flush or bin loose. Return to a pharmacy take-back program or a designated medical waste drop-off.",
+    "municipality": "general",
+    "binColor": "red",
+    "specialNotes": "Flushing pharmaceuticals bypasses wastewater treatment plants.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-28",
+    "itemKeyword": "syringe",
+    "category": "hazardous",
+    "disposalInstruction": "Place in a puncture-proof container and take to a medical waste or hazardous waste collection point. Never place loose in regular bins.",
+    "municipality": "general",
+    "binColor": "red",
+    "specialNotes": "Sharps injury biohazard to sanitation workers.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-29",
+    "itemKeyword": "motor oil",
+    "category": "hazardous",
+    "disposalInstruction": "Never pour down drains or onto soil. Take to an auto shop or hazardous waste facility that accepts used oil.",
+    "municipality": "general",
+    "binColor": "red",
+    "specialNotes": "One liter of motor oil can contaminate 1 million liters of drinking water.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-30",
+    "itemKeyword": "styrofoam",
+    "category": "general-waste",
+    "disposalInstruction": "Most curbside programs do not accept styrofoam. Dispose of in general waste unless a specialty drop-off is available near you.",
+    "municipality": "general",
+    "binColor": "gray",
+    "specialNotes": "Expanded polystyrene (#6) breaks into microplastic beads in sorting plants.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  },
+  {
+    "id": "rule-31",
+    "itemKeyword": "cigarette butt",
+    "category": "general-waste",
+    "disposalInstruction": "Ensure it is fully extinguished, then dispose of in general waste. Never discard on the ground due to toxic residue leaching into soil.",
+    "municipality": "general",
+    "binColor": "gray",
+    "specialNotes": "Cellulose acetate filters take up to 10 years to degrade, releasing nicotine and heavy metals.",
+    "updatedAt": "2026-09-06T13:11:00.000Z"
+  }
+]
