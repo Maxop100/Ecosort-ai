@@ -36,7 +36,7 @@ mongodb+srv://<username>:<password>@cluster0.abcde.mongodb.net/ecosort?retryWrit
 2. Click **"Add New Database User"**.
 3. Authentication Method: **Password**.
 4. Set a **Username** (e.g., `ecosort_admin`).
-5. Set a **Password** (e.g., `EcoSort2026Secure` — *Tip: avoid `@` and `:` to avoid URL encoding issues*).
+5. Set a **Password** (e.g., `MySecurePass123` — *Tip: avoid `@` and `:` to avoid URL encoding issues*).
 6. Under Database User Privileges, choose **"Read and write to any database"** (or Atlas admin).
 7. Click **"Add User"**.
 
@@ -61,7 +61,7 @@ mongodb+srv://<username>:<password>@cluster0.abcde.mongodb.net/ecosort?retryWrit
    ```
 5. Replace `<db_password>` with your real password, and add `/ecosort` before `?`:
    ```text
-   mongodb+srv://ecosort_admin:EcoSort2026Secure@cluster0.xxxx.mongodb.net/ecosort?retryWrites=true&w=majority
+   mongodb+srv://ecosort_admin:<YOUR_PASSWORD>@cluster0.xxxx.mongodb.net/ecosort?retryWrites=true&w=majority
    ```
 
 ---
@@ -76,7 +76,7 @@ mongodb+srv://<username>:<password>@cluster0.abcde.mongodb.net/ecosort?retryWrit
 ### Option B: Via `.env` (Local Development)
 Add the following line to your `.env` file:
 ```env
-MONGODB_URI="mongodb+srv://ecosort_admin:EcoSort2026Secure@cluster0.xxxx.mongodb.net/ecosort?retryWrites=true&w=majority"
+MONGODB_URI="mongodb+srv://ecosort_admin:<YOUR_PASSWORD>@cluster0.xxxx.mongodb.net/ecosort?retryWrites=true&w=majority"
 ```
 
 ---

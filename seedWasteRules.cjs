@@ -28,7 +28,7 @@ async function seed() {
       console.log("  3. In 'Network Access', click 'Add IP Address' and choose 'Allow Access from Anywhere' (0.0.0.0/0).");
       console.log("  4. Click 'Connect' -> 'Drivers' and copy the connection string.");
       console.log("  5. Replace <password> with your actual database password and set the db name, e.g.:");
-      console.log("     mongodb+srv://admin:myRealPassword@cluster0.abcde.mongodb.net/ecosort?retryWrites=true&w=majority\n");
+      console.log("     mongodb+srv://admin:<YOUR_PASSWORD>@cluster0.abcde.mongodb.net/ecosort?retryWrites=true&w=majority\n");
       process.exit(1);
     }
 
